@@ -12,8 +12,8 @@
     <h1>Proyecto 1 git</h1>
     <input type="button" onclick="saludo()" value="Dale ya">
     <h1>Proyecto 1 git</h1> 
-    <p>otro parrafo</p>
-    <p>Otro parrafo</p>
+    <p>Praafo del documento html</p>
+    <p>jorgeeeee</p>
     a
 </body>
 </html>
