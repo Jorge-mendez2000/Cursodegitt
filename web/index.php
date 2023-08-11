@@ -13,6 +13,7 @@
     <input type="button" onclick="saludo()" value="Dale ya">
     <h1>Proyecto 1 git</h1> 
     <p>otro parrafo</p>
+    <p>Otro parrafo</p>
     
 </body>
 </html>
